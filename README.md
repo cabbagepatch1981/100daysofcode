@@ -1,4 +1,4 @@
-# 100 Days Of Code Journal / School of Code Bootcamp Journal --> -->
+# 100 Days Of Code Journal / School of Code Bootcamp Journal
 ## Day 1
 ---
 _Date_Saturday 18th March
