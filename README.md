@@ -11,7 +11,8 @@ _Date_Saturday 18th March
 ### **Thoughts:**
 - Can't believe how much the Bootcamp has taught us in the first week and the difference between now and the first day of the course.
 
-
+## Day 2
+---
 _Date_Sunday 19th March
 
 ### **Today's Progress:**
