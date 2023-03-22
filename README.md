@@ -21,3 +21,8 @@ _Date_Sunday 19th March
 
 ### **Thoughts:**
 - Great to be able to talk about coding with others on the course as well as people I have met through networking locally here in Brighton.  Really pleased with the teamwork and solidarity! 
+
+
+Networking
+- Codebar
+- JavaScript MeetUp
